@@ -4,7 +4,7 @@ const Data = [
         id: 1,
         img: 'https://images.pexels.com/photos/3243/pen-calendar-to-do-checklist.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
         title: 'TO DO LIST',
-        desc: 'To-do list is a list of tasks that an individual needs to complete or accomplish.',
+        desc: 'To-do list is a list of errands and other tasks often written on a piece of paper as a memory aid. ',
         view: 'https://lenox-todo.netlify.app/',
     },
     {
