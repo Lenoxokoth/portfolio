@@ -8,8 +8,8 @@ const Meabout = () => {
   return (
     <div className='about'>
         <div className="left">
-            <h1>ABOUT ME</h1>
-            <p>I am lenox Okoth a frontend web developer,i can provide clean code 
+            <h1>ABOUT ME.</h1>
+            <p>I am lenox Okoth, a frontend web developer. I can provide clean code and
               also make the website more and more intractive regardless of the user interface.
             </p>
             <a href={CV} download>
