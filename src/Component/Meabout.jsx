@@ -2,7 +2,7 @@ import './Meabout.css'
 
 import React from 'react'
 import about from '../Assets/image.webp'
-import CV from '../Assets/CV.pdf'
+import CV from '../Assets/LENOX.pdf'
 
 const Meabout = () => {
   return (
