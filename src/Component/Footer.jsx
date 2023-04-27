@@ -9,7 +9,7 @@ const Footer = () => {
           <h4>LENOX OKOTH</h4>
           <p>WEB DEVELOPER</p>
             <div className="social">
-              <a href="https://github.com" target='blank'>
+              <a href="https://github.com/Lenoxokoth" target='blank'>
               <FaGithub size={25} style={{color: "#fff", marginRight: "2rem"}}/>
               </a>
 
@@ -17,7 +17,7 @@ const Footer = () => {
               <FaFacebook size={25} style={{color: "#fff", marginRight: "2rem"}}/>
               </a>
 
-              <a href="https://linkedin.com" target='blank'>
+              <a href="https://www.linkedin.com/in/lenoxokoth/" target='blank'>
               <FaLinkedin size={25} style={{color: "#fff", marginRight: "2rem"}}/>
               </a>
 
